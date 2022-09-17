@@ -1,3 +1,3 @@
 Demo
 
-Description of git and techie
+Description of git and techie for beginners!
